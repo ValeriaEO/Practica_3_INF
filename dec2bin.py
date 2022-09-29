@@ -12,3 +12,5 @@ def dec2bin(numero_decimal, numero_bits):
         while len(numero_binario) < numero_bits:
             numero_binario = "1" + numero_binario
     return numero_binario
+
+print("a shuparla")
