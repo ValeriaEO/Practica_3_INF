@@ -64,4 +64,8 @@ if __name__ == "__main__":
     numero_hexadecimal = bin2hex(numero_binario)
 
     # Muestra por pantalla el resultado.
-    print("El numero binario " + numero_binario + " es " + numero_hexadecimal + " en hexadecimal.")
+    print("El numero binario " + numero_binario + " es " + numero_hexadecimal +
+
+          " en hexadecimal.")
+
+print("shupala")
